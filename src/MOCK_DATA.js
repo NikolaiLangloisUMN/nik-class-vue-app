@@ -57,9 +57,9 @@ const data = [
     "id": "e3c308d4-4da8-4d7b-a61f-56bdd05faa04",
     "first_name": "Mattie",
     "last_name": "Huxley",
-    "email": "mhuxley6@bandcamp.com",
+    "email": "",
     "gender": "Male",
-    "university": "Hanzehogeschool Groningen",
+    "university": "Hanzehoge school Groningen",
     "headshot": "http://dummyimage.com/155x198.png/5fa2dd/ffffff"
   },
   {
@@ -203,7 +203,7 @@ const data = [
     "last_name": "Petyakov",
     "email": "opetyakovm@canalblog.com",
     "gender": "Male",
-    "university": "University College of Trollhättan/Uddevalla",
+    "university": "University College of Trollhättan/ Uddevalla",
     "headshot": "http://dummyimage.com/172x155.png/dddddd/000000"
   }
 ]

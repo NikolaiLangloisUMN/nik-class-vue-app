@@ -22,9 +22,8 @@
 <style scoped>
 section.primary-template {
   section.main {
-    max-width: 800px;
-    margin: 0 auto;
-    border: 1px solid red;
+    max-width: 900px;
+    margin: 1rem auto;
   }
 }
 </style>
