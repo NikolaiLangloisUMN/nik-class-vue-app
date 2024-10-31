@@ -41,7 +41,7 @@ section.card {
   border: 1px solid lightgray;
   border-radius: 10px;
   gap: 1rem;
-  padding: 1rem;
+  padding: 0.5rem;
 
   &:hover {
     border-color: black;
@@ -55,11 +55,18 @@ section.card {
 
   .left-side {
     flex-basis: 40%;
+    display: flex;
+    gap: 0.5rem;
 
     .headshot {
       height: 120px;
       width: 90px;
       background-color: lightgray;
+    }
+
+    .dob {
+      font-size: 0.8rem;
+      font-style: italic;
     }
   }
 
